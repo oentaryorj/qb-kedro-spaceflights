@@ -1,2 +1,0 @@
-2021-07-26 19:38:41,407 - root - INFO - ** Kedro project qb-kedro-spaceflights
-2021-07-26 19:39:00,737 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
